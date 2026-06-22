@@ -5,8 +5,6 @@ The TOAEIT Digital Platform is the core technology infrastructure for the Tesoro
 
 It is designed to deliver a secure, scalable, and transparent system for managing occupational accident insurance, employment protection, contributions, claims processing, and trust governance.
 
----
-
 ## Vision
 To build a digital-first social protection system that safeguards workers in both formal and informal sectors through accessible insurance, claims, and financial protection services.
 
