@@ -77,3 +77,14 @@ To build a digital-first social protection system that safeguards workers in bot
 
 ## Project Structure (Initial Blueprint)
 
+## Development Status
+Phase: Initial Architecture & Setup  
+Next Step: MVP Development Sprint (User Registration + Contributions + Claims)
+
+## Purpose
+To operationalize a modern insurance and employment protection ecosystem that serves workers, employers, and institutions through technology-driven trust governance.
+
+## License
+Public / Proprietary (TOAEIT Trust)
+
+
