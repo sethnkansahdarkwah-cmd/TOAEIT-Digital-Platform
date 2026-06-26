@@ -1,0 +1,9 @@
+TOAEIT-Digital-Platform/
+│
+├── frontend/        (Website - React)
+├── backend/         (API server - Node.js)
+├── mobile-app/      (Future mobile app)
+├── database/        (Schema design)
+├── docs/            (Governance + system docs)
+├── .gitignore
+└── README.md
